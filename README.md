@@ -27,7 +27,7 @@ Once you have deployed RSS Fetcher then return here to follow the Discord setup 
 
 This button can be used for following the Heroku deployment steps.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhigginsuk/discord-rss-fetcher)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Drago991/discord-rss-fetcher)
 
 ## Discord Setup
 
